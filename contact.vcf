@@ -1,18 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Santiago Suena Bien Lab
-N:Suena Bien Lab;Santiago;;;
+FN:Suena Bien Lab
 ORG:Suena Bien Lab
-TEL;TYPE=CELL:+34611666137
-EMAIL:suenabienlab@gmail.com
-URL:https://suenabienlab.com
-END:VCARD
-BEGIN:VCARD
-VERSION:3.0
-FN:Alberto Suena Bien Lab
-N:Suena Bien Lab;Alberto;;;
-ORG:Suena Bien Lab
-TEL;TYPE=CELL:+34696688172
-EMAIL:suenabienlab@gmail.com
+TEL;TYPE=CELL;X-ABLabel=Santiago Suena Bien Lab:+34611666137
+TEL;TYPE=WORK;X-ABLabel=Alberto Suena Bien Lab:+34696688172
+EMAIL:hola@suenabienlab.com
 URL:https://suenabienlab.com
 END:VCARD
